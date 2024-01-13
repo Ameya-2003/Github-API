@@ -20,8 +20,5 @@ This script requires the `requests` library. You can install it using pip:
 pip install requests
 ```
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
 ```
 🙏 Thanks for showing interest.

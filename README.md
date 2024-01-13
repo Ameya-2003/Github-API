@@ -17,8 +17,4 @@ You will be prompted to enter the GitHub username of the user whose repositories
 This script requires the `requests` library. You can install it using pip:
 
 ```
-pip install requests
-```
-
-```
 🙏 Thanks for showing interest.
